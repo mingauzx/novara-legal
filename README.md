@@ -1,0 +1,2 @@
+# novara-legal
+Termos novara
